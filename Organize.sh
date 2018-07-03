@@ -1,11 +1,5 @@
 #!/bin/bash
 
-function delete_if_empty {
-if [ "~$(ls -A $1)" ]; then
-    rm $1
-fi
-}
-
 mkdir Documents
 mkdir Images
 mkdir Audio
@@ -32,8 +26,8 @@ mv *.cpp *.hpp *.h *.cc *.c *.py *.pl *.hs *.html *.css *.php *.js Programs\
 
 echo "Programs cleaned..."
 
-delete_if_empty Documents
-delete_if_empty Images
-delete_if_empty Programs
-delete_if_empty Videos
-delete_if_empty Audio
+rmdir Documents
+rmdir Images
+rmdir Programs
+rmdir Videos
+rmdir Audio
