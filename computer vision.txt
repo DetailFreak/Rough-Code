@@ -1,0 +1,8 @@
+Mr./Mrs./Miss ,
+
+My name is Vishal Kushwaha and I am a 3rd year Computer Science Engineering undergraduate at Amity University. I am available for a full time summer internship and I can work 40 hours per week. It would be my privilege to work for you and gain some real world experience in the field of [field]. [Company] is a diverse company and has a great portfolio of [Product]/[Startup] is an awesome [latform/service/brand] for [Field] and I really appreciate the commitment of the company to offer easy to use [Product] for [field] which is usually quite cumbersome. I also like the [work culture/environment/Achievements].
+
+I think a few reasons make me a great fit for this internship,I started out programming in c++ and building games in my lab. I was generally curious and passionate about technologies so I started learning robotics. 
+I have worked for KitsGuru( www.kitsguru.com ) as a Robotics Intern, I built, managed and collaborated college projects and helped them get clients. I got interested in computer vision after a workshop, I started following PyimageSearch (www.pyimagesearch.com) among other blogs and built a computer vision project to detect railway crossing status and traffic congestion using OpenCV, this helped us reduce commute time to college by half an hour. I am passionate about application of technology to solve problems and this is why I think I should work at [Company].
+
+I have attached my resume for your ready reference.
