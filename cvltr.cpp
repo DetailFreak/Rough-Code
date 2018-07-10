@@ -3,8 +3,8 @@
 #include <string>
 using namespace std;
 
-string source_dir = "/Users/vikramsingh/Documents/Programming/C++/coverlettergenerator/";
-string dest_dir = "/Users/vikramsingh/Documents/Programming/C++/coverlettergenerator/";
+string source_dir = "/Documents/Programming/C++/coverlettergenerator/";
+string dest_dir = "/Documents/Programming/C++/coverlettergenerator/";
 
 bool argUsed[3] = {false,false,false};
 
